@@ -26,7 +26,7 @@ if platform.system() in [ 'Linux', 'FreeBSD', 'DragonFly']:
 
 
 setup(
-    name="Electrum-DOGED",
+    name="Electrum-doged",
     version=version.ELECTRUM_VERSION,
     install_requires=[
         'slowaes>=0.1a1',
